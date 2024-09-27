@@ -1,0 +1,19 @@
+.nav{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 5%;
+}
+
+.nav-menu{
+    display: flex;
+    align-items: center;
+    font-size: 18px;
+    gap: 50px;
+}
+a{
+text-decoration: none;
+color: blue;
+}
+a:hover{
+    color: black;
+}
